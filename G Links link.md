@@ -7,6 +7,8 @@
 ## Today's class:
 * First log in to [Coding Rooms](http://app.codingrooms.com/) (it logged everyone out) and then go to the [FRQ2: AdditionPattern Assignment](https://app.codingrooms.com/management/assignments/21306/overview)
 * [Unit 5 notes](https://gist.github.com/mrDonoghue/7312efdb78dca463096ddffcb9f66c0b)
+* Optional: If you finished the FRQ fast (you speed demon!), you might like to start/work on the [Consumer Review Lab](https://docs.google.com/document/d/1X6shJi7wEbqds0yIW1eGiPX2462cWNV0OAJRQ0pkK4E/edit?usp=sharing) for extra practice
+* Optional: If you finished the FRQ fast (you speed demon!), you might like to work on any of the AP Classroom Extra Practices
 
 ## Resources:
 * [Unit 1 Notes](https://gist.github.com/mrDonoghue/6f097b0a542598d27c27f7adec5c568c)
