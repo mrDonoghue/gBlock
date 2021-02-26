@@ -1,11 +1,12 @@
 # Links link: all the links you might want today
 ## Warm-up
-* Required: [AP Classroom ShortReview0](https://apclassroom.collegeboard.org/8/assessments/assignments/33017615) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)
-* Optional: [AP Classroom ExtraPractice2](https://apclassroom.collegeboard.org/8/assessments/assignments/33018051)
+* Required: [AP Classroom Review3](https://apclassroom.collegeboard.org/8/assessments/assignments/33055094) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)
+* Optional: [AP Classroom ExtraPractice3](https://apclassroom.collegeboard.org/8/assessments/assignments/33055074)
 * Optional: [Venting Padlet](https://viewpointschool2.padlet.org/nolandonoghue2/cjt42uuauv8r9ym7)
 
 ## Today's class:
-* First log in to [Coding Rooms](http://app.codingrooms.com/) (it logged everyone out) and then go to the [FRQ2: AdditionPattern Assignment](https://app.codingrooms.com/management/assignments/21306/overview)
+* First log in to [Coding Rooms](http://app.codingrooms.com/) (it may have logged you out) and then go to the [FRQ2: AdditionPattern Assignment](https://app.codingrooms.com/management/assignments/21306/overview)
+* Later we'll pick up our discussion of Unit 5 in [our Live Classroom](https://app.codingrooms.com/c-join/c/pscWcqQ5P0VB)
 * [Unit 5 notes](https://gist.github.com/mrDonoghue/7312efdb78dca463096ddffcb9f66c0b)
 * Optional: If you finished the FRQ fast (you speed demon!), you might like to start/work on the [Consumer Review Lab](https://docs.google.com/document/d/1X6shJi7wEbqds0yIW1eGiPX2462cWNV0OAJRQ0pkK4E/edit?usp=sharing) for extra practice
 * Optional: If you finished the FRQ fast (you speed demon!), you might like to work on any of the AP Classroom Extra Practices
