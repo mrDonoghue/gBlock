@@ -12,6 +12,7 @@
 * Optional: If you finished the FRQ fast (you speed demon!), you might like to work on any of the AP Classroom Extra Practices
 
 ## Resources:
+* [Quick Reference Sheet]( https://apcentral.collegeboard.org/pdf/ap-computer-science-a-java-quick-reference.pdf?course=ap-computer-science-a )
 * [Unit 1 Notes](https://gist.github.com/mrDonoghue/6f097b0a542598d27c27f7adec5c568c)
 * [Unit 2 Notes](https://gist.github.com/mrDonoghue/c66799d9887dddb1d86710d9bade8a14)
 * [Unit 3+4 Notes](https://gist.github.com/mrDonoghue/584d61a03c362bd0efad5aaf09d12e5a)
