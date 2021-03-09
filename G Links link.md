@@ -1,7 +1,7 @@
 # Links link: all the links you might want today
 ## Warm-up
-* Required: [AP Classroom Review5](https://apclassroom.collegeboard.org/8/assessments/assignments/33174620) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)
-* Optional: [AP Classroom ExtraPractice5](https://apclassroom.collegeboard.org/8/assessments/assignments/33152297)
+* Required: [AP Classroom Review6](https://apclassroom.collegeboard.org/8/assessments/assignments/33233520) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)
+* Optional: [AP Classroom ExtraPractice6](https://apclassroom.collegeboard.org/8/assessments/assignments/33207857)
 * Optional: [Venting Padlet](https://viewpointschool2.padlet.org/nolandonoghue2/cjt42uuauv8r9ym7)
 
 ## Today's class:
@@ -17,3 +17,4 @@
 * [repl.it](https://repl.it/~)
 * [Join the Coding Rooms *course*](https://app.codingrooms.com/management/courses/join-by-code/UP8Wz3o1) ***(only if you haven't done this already)***
 * [Links links link](https://gist.github.com/mrDonoghue/85c00adcd07a5fa9696e10fdda430578): A link containing an archive of past Links links
+* [Progress Checks link](https://gist.github.com/mrDonoghue/de5fe548bfc3c7ff405884a56a2b29bc): Prepare for the exam and find your weaker spots! 
