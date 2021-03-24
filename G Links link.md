@@ -1,7 +1,7 @@
 # Links link: all the links you might want today
 ## Warm-up
-* Required: [AP Classroom Review10](https://apclassroom.collegeboard.org/8/assessments/assignments/33446984) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)
-* Optional: [AP Classroom ExtraPractice11](https://apclassroom.collegeboard.org/8/assessments/assignments/33430138)
+* Required: [AP Classroom ShortReview2](https://apclassroom.collegeboard.org/8/assessments/assignments/33463010) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)
+* Optional: message me what you think about Coding Rooms. How does it compare to what we had been doing for learning new things? What do you not like about class? (You could also use the [venting padlet](https://viewpointschool2.padlet.org/nolandonoghue2/cjt42uuauv8r9ym7) if you want anonymity in your answers)
 * Optional: [Venting Padlet](https://viewpointschool2.padlet.org/nolandonoghue2/cjt42uuauv8r9ym7)
 
 ## Today's class:
