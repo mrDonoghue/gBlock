@@ -1,12 +1,13 @@
 # Links link: all the links you might want today
 ## Warm-up
-* Required: [AP Classroom ShortReview2](https://apclassroom.collegeboard.org/8/assessments/assignments/33463010) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)
-* Optional: message me what you think about Coding Rooms. How does it compare to what we had been doing for learning new things? What do you not like about class? (You could also use the [venting padlet](https://viewpointschool2.padlet.org/nolandonoghue2/cjt42uuauv8r9ym7) if you want anonymity in your answers)
+* Required: [AP Classroom Review11](https://apclassroom.collegeboard.org/8/assessments/assignments/33494789) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)
+* Optional: [ExtraPractice 12](https://apclassroom.collegeboard.org/8/assessments/assignments/33478975)
 * Optional: [Venting Padlet](https://viewpointschool2.padlet.org/nolandonoghue2/cjt42uuauv8r9ym7)
 
 ## Today's class:
-* First log in to [Coding Rooms](http://app.codingrooms.com/) (it may have logged you out) and then [join our Live Classroom](https://app.codingrooms.com/c-join/c/pscWcqQ5P0VB)
+* First log in to [Coding Rooms](http://app.codingrooms.com/) (it may have logged you out) and then [join our Live Classroom](https://app.codingrooms.com/c-join/c/TiL0Tixk8AJ0)
 * [Unit 5 notes](https://gist.github.com/mrDonoghue/7312efdb78dca463096ddffcb9f66c0b)
+* [Thinking about using a variable or method notes](https://gist.github.com/mrDonoghue/a8624071c0c342dfcb394d7df59f2bef)
 
 ## Resources:
 * [Quick Reference Sheet]( https://apcentral.collegeboard.org/pdf/ap-computer-science-a-java-quick-reference.pdf?course=ap-computer-science-a )
