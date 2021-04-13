@@ -1,7 +1,7 @@
 # Links link: all the links you might want today
 ## Warm-up
-* Required: [AP Classroom Review11](https://apclassroom.collegeboard.org/8/assessments/assignments/33494789) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)
-* Optional: [ExtraPractice 12](https://apclassroom.collegeboard.org/8/assessments/assignments/33478975)
+* Required: [AP Classroom Review11](https://apclassroom.collegeboard.org/8/assessments/assignments/33744246) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)
+* Optional: [ExtraPractice 12](https://apclassroom.collegeboard.org/8/assessments/assignments/33708088)
 * Optional: [Venting Padlet](https://viewpointschool2.padlet.org/nolandonoghue2/cjt42uuauv8r9ym7)
 
 ## Today's class:
