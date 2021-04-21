@@ -1,8 +1,7 @@
 # Links link: all the links you might want today
 ## Warm-up
-* Required: [AP Classroom Review14](https://apclassroom.collegeboard.org/8/assessments/assignments/33884702) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)
-* Optional: [ExtraPractice 14](https://apclassroom.collegeboard.org/8/assessments/assignments/33884375)
-* Optional: [Venting Padlet](https://viewpointschool2.padlet.org/nolandonoghue2/cjt42uuauv8r9ym7)
+* Bit different today. First log in to [Coding Rooms](http://app.codingrooms.com/) (it may have logged you out) and then [join our Live Classroom](https://app.codingrooms.com/c-join/c/2sU6YiD8fCxC). Then begin investigating the strange phenomenon in the code that I added to main. How many times does 300 come out? How many times would you expect? What's going on here?
+You might like to use [this link to think about it](http://pythontutor.com/java.html#code=public%20class%20Main%20%7B%0A%20%20public%20static%20void%20printIntArr%28int%5B%5D%20arr%29%20%7B%0A%20%20%20%20for%20%28int%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%2B%2B%29%20%7B%0A%20%20%20%20%20%20System.out.println%28arr%5Bi%5D%29%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20%20%20%0A%20%20public%20static%20void%20main%28String%5B%5D%20args%29%20%7B%0A%20%20%20%20int%5B%5D%20arr1%20%3D%20%7B1,%202,%203,%204%7D%3B%0A%20%20%20%20int%5B%5D%20arr2%20%3D%20arr1%3B%0A%20%20%20%20int%5B%5D%20arr3%20%3D%20%7B1,%202,%203,%204%7D%3B%0A%0A%20%20%20%20arr1%5B0%5D%20%3D%20300%3B%0A%20%20%20%20printIntArr%28arr1%29%3B%0A%20%20%20%20printIntArr%28arr2%29%3B%0A%20%20%20%20printIntArr%28arr3%29%3B%0A%20%20%7D%0A%7D&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=java&rawInputLstJSON=%5B%5D&textReferences=false)
 
 ## Today's class:
 * First log in to [Coding Rooms](http://app.codingrooms.com/) (it may have logged you out) and then [join our Live Classroom](https://app.codingrooms.com/c-join/c/2sU6YiD8fCxC)
