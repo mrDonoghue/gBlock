@@ -1,7 +1,7 @@
 # Links link: all the links you might want today
 ## Warm-up
-* Required: [AP Classroom Review16](https://apclassroom.collegeboard.org/8/assessments/assignments/33968954) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)	
-* Optional: [Extra Practice 17](https://apclassroom.collegeboard.org/8/assessments/assignments/33969094)
+* Required: [AP Classroom Review16](https://apclassroom.collegeboard.org/8/assessments/assignments/33968955) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)	
+* Optional: [Extra Practice 17](https://apclassroom.collegeboard.org/8/assessments/assignments/33969095)
 
 ## Today's class:
 * First log in to [Coding Rooms](http://app.codingrooms.com/) (it may have logged you out) and then [join our Live Classroom](https://app.codingrooms.com/c-join/c/2sU6YiD8fCxC)
