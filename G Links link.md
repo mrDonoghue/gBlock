@@ -1,7 +1,12 @@
 # Links link: all the links you might want today
 ## Warm-up
-* Required: [AP Classroom Review16](https://apclassroom.collegeboard.org/8/assessments/assignments/33968955) (remember that if the link makes you log in but doesn't bring you to the assessment page, you can reclick the link once logged in to go right to the assessment)	
-* Optional: [Extra Practice 17](https://apclassroom.collegeboard.org/8/assessments/assignments/33969095)
+* Required: [Array Practice!](https://csawesome.runestone.academy/runestone/assignments/doAssignment?assignment_id=67882)
+* If you finish the warm-up early, I strongly recommend doing more practice!
+  - If you haven't done the [Progress Checks](https://gist.github.com/mrDonoghue/c653915e0baa63fc2b65a6278dc7a190), do those! If you don't know what you don't know and/or need multiple choice practice this is a great choice
+  - If you feel decent on multiple choice but really need coding practice, try some FRQ practice instead. For each of the below bullets, I'm linking to the first FRQ on Runestone for each type. If you move to the next page, there are more FRQ of each type.
+     - [FRQ 1 Practice](https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/FRQcalendar.html) (ifs and loops and such. Remember that you might have already done some of these)
+     - FRQ 2 practice](https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/FRQstepTracker.html) (making a class from scratch like AdditionPattern)
+     -  [FRQ 3 practice](https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/topic-6-4-array-algorithms.html) (we haven't done practice for these together but they use arrays)
 
 ## Today's class:
 * First log in to [Coding Rooms](http://app.codingrooms.com/) (it may have logged you out) and then [join our Live Classroom](https://app.codingrooms.com/c-join/c/2sU6YiD8fCxC)
