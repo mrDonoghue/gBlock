@@ -5,7 +5,7 @@
   - If you haven't done the [Progress Checks](https://gist.github.com/mrDonoghue/c653915e0baa63fc2b65a6278dc7a190), consider doing those! If you don't know what you don't know and/or need multiple choice practice this is a great choice
   - If you feel decent on multiple choice but really need coding practice, try some FRQ practice instead. For each of the below bullets, I'm linking to the first FRQ on Runestone for each type. If you move to the next page, there are more FRQ of each type.
      - [FRQ 1 Practice](https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/FRQcalendar.html) (ifs and loops and such. Remember that you might have already done some of these)
-     - FRQ 2 practice](https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/FRQstepTracker.html) (making a class from scratch like AdditionPattern)
+     - [FRQ 2 practice](https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/FRQstepTracker.html) (making a class from scratch like AdditionPattern)
      -  [FRQ 3 practice](https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/topic-6-4-array-algorithms.html) (we haven't done practice for these together but they use arrays)
 
 ## Today's class:
