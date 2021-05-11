@@ -2,7 +2,7 @@
 
 ## Today's class:
 * REMINDER: [If you haven't done digital app prep (including trying the app demo), you MUST do that!](https://apcentral.collegeboard.org/about-ap-2021/updates/digital-exams/download-testing-app) Allegedly, the problem is fixed now. Try again, and let me know if it's still broken.
-* **First log in to Coding Rooms** [here](https://app.codingrooms.com) and **THEN** [join our new live classroom](https://app.codingrooms.com/c-join/c/2fvnIP6gCmAg)
+* **First log in to Coding Rooms** [here](https://app.codingrooms.com) and **THEN** [join our new live classroom](https://app.codingrooms.com/c-join/c/H1dyhXVMnttI)
 * [Recursive searching and sorting](https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-2-recursive-search-sort.html)
 * [Recursion practice!](https://csawesome.runestone.academy/runestone/assignments/doAssignment?assignment_id=69087)
 * Continue on to the Exam Prep section below! Exam is 7 days away!
